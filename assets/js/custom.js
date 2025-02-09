@@ -1,35 +1,4 @@
 /*-------------------------------------
-Template Name: kiosk Bike
-Author: ThemeClan
-Description: eCommerce HTML Template
-Version: 1.0.0
-Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
--------------------------------------*/
-
-/*-------------------------------------
-  Table of Content
----------------------------------------
-    # Preloader
-    # Tilt.js
-    # Scroll to top
-    # Smooth Scroll
-    # Fixed Menu
-    # Mobile menu
-    # Header Search
-    # Select Dropdown
-    # Mini Cart
-    # Custom Modal
-    # Easyzoom
-    # Wow Animation
-    # Product Quantity
-    # Banner Slider
-    # Product Slider
-    # Image Slider
-    # Partner Slider
-    # Testimonial Slider
-    # Product gallery
-    # Counter
-    # Lightcase
 -------------------------------------*/
 
 (function($) {
